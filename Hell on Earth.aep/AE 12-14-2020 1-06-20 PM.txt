@@ -1,0 +1,8 @@
+  12/14/2020 1:06:20 PM: Starting composition “Final project 2”.
+
+  Output To: C:\Users\Evelyn\OneDrive\Documents\Final project.mov    12/14/2020 1:07:14 PM: Finished composition “Final project 2”.
+
+
+  Total Time Elapsed: 48 Seconds
+Log closed on 12/14/2020 at 1:07:14 PM
+
